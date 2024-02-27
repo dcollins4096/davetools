@@ -32,3 +32,5 @@ from collections import defaultdict
 
 x_dict = [1,0,0]
 y_dict = [2,2,1]
+plot_dir = "%s/PigPen"%os.environ['HOME']
+
