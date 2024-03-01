@@ -30,7 +30,7 @@ import glob
 #ef=execfile
 from collections import defaultdict
 
-import scipyt
+import scipy
 
 x_dict = [1,0,0]
 y_dict = [2,2,1]
